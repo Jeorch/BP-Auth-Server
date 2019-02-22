@@ -1,0 +1,5 @@
+{
+    "Host":"localhost",
+    "Port":"8088",
+    "TmpDir": "tmp"
+}

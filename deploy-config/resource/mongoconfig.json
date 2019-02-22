@@ -1,0 +1,5 @@
+{
+  "Host":"primary",
+  "Port":"27017",
+  "Database":"ddsaas"
+}
